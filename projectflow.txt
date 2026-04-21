@@ -26,3 +26,9 @@ Password : pcotsQjRekf3zzSg
 Connection String:
 =================
 mongodb+srv://reddyashok075_db_user:<db_password>@cluster0.fknogih.mongodb.net/?appName=Cluster0
+
+
+-------------------------------------- logging, exception and notebooks --------------------------------------
+14. Write the logger file and test it on demo.py
+15. Write the exception file and test it on demo.py
+16. EDA and Feature Engg notebook added.
